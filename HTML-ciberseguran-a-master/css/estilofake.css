@@ -1,0 +1,87 @@
+body{
+	background-image: url(fakezada.jpg);
+	position:fixed;
+	background-color:#bbbed3;
+	background-repeat:no-repeat;
+	position:sticky;
+	background-size: 100% 100%;
+	background-attachment:scroll;
+	background-attachment:fixed;
+}
+
+h1,h2,h3{
+	color: black;
+	text-align:center;
+	font-family: arial;
+	font-size: 30px; 
+}
+#plat{
+	box-sizing: content-box;
+	max-width: 800px;
+	max-height:1920px;
+	box-align:center;
+	background-color:#ffff;
+	text-align:justify;
+	padding: 2% 1% 1% 1%; 
+	align-items: center;
+}
+
+li{
+	color: black;
+	font-family: arial;
+	font-size: 16px; 
+	
+} 
+p{
+	color: black;
+	text-align: center;
+	font-family: arial;
+	font-size: 16px; 
+}
+cite{
+	color: black;
+	text-align: center;
+	font-family: arial;
+	font-size: 16px;
+}
+#fim{
+	background-color: #46c9c9;
+	box-align:center;
+	text-align: center;
+	max-width: 970px;
+	max-height:1000px;
+	padding-top:2%;
+}
+address{
+	text-align:center;
+}
+#a{
+	height: 100px;
+	width: 50px;
+	color:#0000;
+	float: right;
+	animation-name: anime;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	position:relative;
+	position:sticky;
+}
+@keyframes anime{
+	from{ right:0px}; 
+	to{top:200px};
+
+}
+div{
+	display: none;
+
+}
+ div:target{display: block;
+	text-align: center;
+	width: 90%;
+	border: none;
+
+}
+hr{
+	color:#bbbed3;
+	background-color: #bbbed3;
+}

@@ -1,0 +1,78 @@
+@font-face {
+	src: url("fontes/A_Lolita_Scorned.ttf");
+	font-family: "sangue";
+}
+
+body {
+	font-family: verdana;
+	background-image: url("ciber.jpg");
+	/* background-repeat: repeat;
+	/* background-repeat: repeat-x; */
+	/* background-repeat: repeat-y; */
+	background-repeat: no-repeat;
+	/* background-position: 50px 100px; */
+	/* background-position: left top; */
+	/* background-position: left center; */
+	/* background-position: left bottom; */
+	background-position: center center;
+	/* background-size: 780px 460px; */
+	background-size: 100% 100%;
+	background-attachment: scroll;
+	background-attachment: fixed;
+}
+
+h1, h2 {
+	font-family: sangue;
+	text-align: center;
+	font-weight: normal;
+	font-size: 30pt;
+	color: black;
+}
+
+p {
+	font-family: sangue;
+	font-size: 13pt;
+	text-align: center;
+	text-indent: 50px;
+	line-height: 20pt;
+	color: black;
+	padding: 10px;
+}
+
+           td, th, tr {
+           	border-style: inset;
+                border: 10px solid #999;
+                border-spacing: 5px;
+                text-align: center;
+                color: red;
+                font-family: sangue;
+                background-color: #f5f5f5;}
+            table{
+            	border-width: medium;
+            	border-style: solid;
+            	border-spacing: 5px;
+            	text-align: center;
+            }
+
+			li {
+				color: black ;
+			}
+			td {
+				border-color: black;
+				border: 3px solid black;
+				text-align: center;
+				vertical-align: top;
+			}
+			th{
+				background-color: silver; 
+				border-style: inset;
+			}
+
+
+address {
+	font-size: 10pt;
+	text-align: center;
+	font-style: normal;
+	line-height: 15pt;
+	color: silver;
+}

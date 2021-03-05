@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Ciber Segurança</title>
+	<link href="D:\Desktop\pca\Páginas web\css\estilociber.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+
+<body>
+<img src="imagens/ciber.jpg" width="1350" height="300" title="foto de ciber segurança" alt="foto sobre ciber segurança">
+
+<h1>Ciber Segurança</h1>
+
+
+<h2>Definição</h2>
+<p>Cibersegurança é o termo que designa o conjunto de meios e tecnologias que visam proteger, de danos e intrusão ilícita, programas, computadores, redes e dados. Também conhecida como segurança do ciberespaço, a cibersegurança tem se tornado uma preocupação para muitas pessoas e nações.</p>
+<br><cite>https://educalingo.com/pt/dic-pt/ciberseguranca</cite>
+<ul>exemplos
+	<li>Ataque DoS e DDoS:</li>
+	<li>Cavalo de Troia</li>
+	<li>spyware</li>
+	<li>Ataque DMA</li>
+</ul>
+
+<h2>O que é DoS e DDoS?</h2>
+
+<p>O ataque do tipo DoS (Denial Of Service, em inglês), também conhecido como ataque de negação de serviço, é uma tentativa de fazer com que aconteça uma sobrecarga em um servidor ou computador comum para que recursos do sistema fiquem indisponíveis para seus utilizadores.
+ Para isso, o atacante utiliza técnicas enviando diversos pedidos de pacotes para o alvo com a finalidade de que ele fique tão sobrecarregado que não consiga mais responder a nenhum pedido de pacote.
+ Assim, os utilizadores não conseguem mais acessar dados do computador por ele estar indisponível e não conseguir responder a nenhum pedido.</p>
+
+<p>Já no ataque distribuído de negação de serviço, conhecido como DDoS (Distributed Denial of Service, em inglês), um computador mestre pode gerenciar até milhões de computadores, chamados de zumbis.<br>
+
+<br>Por meio do DDoS, o computador mestre escraviza várias máquinas e as fazem acessar um determinado recurso em um determinado servidor todos no mesmo momento. Assim, todos os zumbis acessam juntamente e de maneira ininterrupta o mesmo recurso de um servidor.
+ Levando em consideração que os servidores web possuem um número limitado de usuários que se podem atender ao mesmo tempo, esse grande número de tráfego impossibilita que o servidor seja capaz de atender a qualquer pedido.
+ O servidor pode reiniciar ou mesmo ficar travado dependendo do recurso que foi vitimado.</p>
+
+<h2>O que é Cavalo de Troia?</h2>
+
+<p>Cavalo de Troia é um tipo de malware que, frequentemente, está disfarçado de software legítimo. Eles podem ser empregados por criminosos virtuais e hackers para tentar obter acesso aos sistemas dos usuários.
+ Em geral, os usuários são enganados por alguma forma de engenharia social para carregar e executar cavalos de Troia em seus sistemas.
+ Uma vez ativados, os cavalos de Troia permitem que os criminosos o espionem, roubaem seus dados confidenciais e obtenham acesso ao seu sistema pela porta de fundo. Essas ações podem incluir:</p>
+<ul>
+<li>Excluir dados</li>
+<li>Bloquear dados</li>
+<li>Modificar dados</li>
+<li>Copiar dados</li>
+<li>Atrapalhar o desempenho de computadores e redes de computadores</li>	
+</ul>
+
+<h2>O que é SpyWare?</h2>
+
+<p>Spyware é um software espião de computador, que tem o objetivo de observar e roubar informações pessoais do usuário que utiliza o PC em que o programa está instalado, retransmitido-as para uma fonte externa na internet, sem o conhecimento ou consentimento do usuário.</p>
+
+<p>Diferentemente dos "cavalos de tróia", que são desenvolvidos por hackers com a finalidade de "dominar" o sistema operacional do usuário, os spywares funcionam apenas como ferramenta de monitoramento das informações.</p>
+
+<h2>O que é Ataque DMA?</h2>
+
+<p>Um DMA ataque é um tipo de ataque canal lateral em segurança de computador , em que um atacante pode penetrar um computador ou outro dispositivo, através da exploração da presença de portas de expansão de alta velocidade, que permitem o acesso directo à memória (DMA).</p>
+</body>
+
+</html>

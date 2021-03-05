@@ -1,0 +1,37 @@
+body{
+	background-color:#5dc856;
+}
+#shock{
+    background-color:greenyellow ;
+}
+.edit{
+    background-color:#6fb392;
+    width:240px;
+}
+
+.input{
+    background-color:#e0fff0
+}
+#word{
+    background-color:#e0fff0;
+    width:150px;  
+}
+p{
+    color: white;
+}
+#a{
+    padding-top: 2px ;
+    text-align:justify;
+    width: 45%;
+    min-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+#b{
+    text-align:justify;
+    width: 45%;
+    min-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
