@@ -1,0 +1,121 @@
+*{
+margin:0;
+padding:0;
+}
+/*Fazer o html e o body ficarem 100%*/
+html, body{
+    width:100%;
+    height:100%;
+}
+/*configurações do navegador*/
+nav{
+    height:15%;
+    line-height:20px;
+    font-size:18pt;
+    display:block;
+    background-color:#25290f;
+    padding-bottom:3%;
+}
+/*configurações dos links*/
+.link{
+    width:30%;
+    height:80%;
+    padding:1%;
+    text-align:center;
+    line-height:50px;
+    display:inline-block;
+    color:white;
+    border: 2px solid;
+    border-color:gray;
+}
+/*efeitos visuais nos links*/
+.link:hover{
+    background-color:#003b14;
+    color:blueviolet;
+
+}
+/*classe de como deve ficar as imagens*/
+.capa{
+    width:200px;
+    height:180px;
+}
+.capa:hover{
+    border:2px solid;
+}
+/*plano de fundo da peach*/
+#peach{
+    background-color:pink;
+    background-image:linear-gradient(#ffffff,#ff07ac);
+    background-size:100%;
+    background-repeat:no-repeat;
+
+}
+/*plano de fundo do mario*/
+#mario{
+    background-image:linear-gradient(#fd0606,#f5f3f3);
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+/*plano de fundo do bowser*/
+#bowser{
+    background-image:linear-gradient(#25290f,#ff2619);
+    background-size:100%;
+    background-repeat:no-repeat;
+
+}
+/*plano de fundo do toad*/
+#toad{
+    background-image:linear-gradient(#f5f3f3,#9cf8c2);
+    background-size:100%;
+    background-repeat:no-repeat;
+}
+/*plano de fundo de testes*/
+#teste{
+    background-color:red;
+    background-image:linear-gradient(to left, red, #ffa2a4);
+    background-repeat:no-repeat;
+}
+/*forma como o border se aplica*/
+#borda{
+    visibility:hidden;
+    bottom:10px;
+    border:5px solid;
+    border-radius: 15%;
+    background-color:white;
+    width:100%;
+
+}
+/*article*/
+article{
+    width:90%;
+    margin-left:5%;
+}
+header{
+    text-align:center;
+}
+/**/
+footer{
+    position:static;
+    bottom:0;
+    text-align:center;
+
+}
+#titulo{
+    color:white;
+}
+/*fecha*/
+#fecha{
+    width:20px;
+    height:20px;
+    margin-left:47.5%;
+    cursor:pointer;
+    text-align:center;
+    background-color:#f3716a;
+    color:white;
+    
+}
+#texto_sensivel_a_imagem{
+    font-size:16pt;
+    text-align:justify;
+}
+    
