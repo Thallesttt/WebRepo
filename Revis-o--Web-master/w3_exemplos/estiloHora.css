@@ -1,0 +1,14 @@
+body{
+background-color:lightgrey;
+}
+h1{
+color: dodgerblue;
+}
+#content{
+text-align:center;
+vertical-align:bottom;
+}
+.botao{
+width:250px;
+height:340px;
+}

@@ -1,0 +1,23 @@
+body{
+background-color:#ffcba0;
+
+}
+h1{
+color: dodgerblue;
+font: bold 30pt Arial, Helvetica, sans-serif;
+text-align: center;
+
+}
+#content{
+text-align:justify;
+padding:3%;
+
+
+
+}
+#change{
+width:250px;
+height:240px;
+text-align:left;
+font: bold 16pt Arial, Helvetica, sans-serif;}
+}

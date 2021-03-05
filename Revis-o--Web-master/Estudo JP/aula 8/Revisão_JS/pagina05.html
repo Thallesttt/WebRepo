@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Pagina_inicial_5</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="C:\Users\Thalles\OneDrive\Área de Trabalho\Estudo JP\Revisão_JS\dia01.css" media="screen">    
+        <script>
+           calcularComprimento(raio) {
+            //2*pi*raio
+            var a=math.PI * 2 * raio;
+            return a;
+           }
+           calcularArea(raio) {
+            //pi*r**2
+            var b=math.PI * math.POW(raio,2);
+            return area;
+           }
+           calcularVolume(raio) { 
+            //4*pi*raio**3/3
+            var c=math.PI * 4 * math.POW(raio,3) / 3;
+            return vol;
+           }
+            </script>
+    <body>
+        <h1 id=titulo>Revisão de Javascript
+        </h1>
+        <p class="texto">Vamos construir um script que leia
+            o raio de uma esfera e retornem o valor do comprimento,
+            a área e o volume da esfera.
+        </p>
+        <hr>
+        <p class="texto">
+            <script>
+        var diametro=window.prompt("Digite o valor do diametro", "");                             
+        var raio=diametro/2;
+        var comp= calcularcomprimento(raio);
+        var area=calcularArea(raio);
+        var vol=calcularVolume(raio);
+        </script>
+        <p class="texto"> O comprimento é: 
+            <script>document.write(comp);
+        </script>
+        </p>
+
+        <form>
+
+        </form> 
+        </body>
+            </html>

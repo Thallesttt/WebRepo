@@ -1,0 +1,23 @@
+body{
+background-color:#a1c9c1
+
+}
+h1{
+color: dodgerblue;
+font: 12 pt times, serif;
+text-align: center;
+
+}
+#content{
+text-align:justify;
+padding:3%;
+
+
+
+}
+#change{
+width:250px;
+height:240px;
+text-align:left;
+font: bold 16pt times, serif;}
+}
